@@ -45,7 +45,11 @@ Existem diversas maneiras de quebrar essa confidencialidade, propor medidas cont
 
 ## O que é a criptografia e como o controle de acessos afeta na modelagem do banco?
 É conhecido como o processo de proteger informações ou dados utilizando métodos matemáticos para misturar de forma que apenas o destino final tenha acesso a informação. Funciona como um cadeado e chaves, um cadeado (informação) só pode ser aberto pelas chaves (máquinas) corretas que abrem ele e vice-versa. <br>
-Por isso o controle de acessos é importante ser averiguado, para que as informações não sejam compartilhadas com agentes maliciosos.
+Por isso o controle de acessos é importante ser averiguado, para que as informações não sejam compartilhadas com usuários indevidos.<br>
+A criptografia é utilizada diariamente sem que percebamos, em nossas mensagens, transações, reuniões, etc. Protegendo e garantindo a integridade dos dados nos dispositivos, pois são essas informações que movem o mundo no momento.
+
+### Exemplo no BRmodel Web
+
 
 
 ## Links com referências
