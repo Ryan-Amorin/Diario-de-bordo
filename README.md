@@ -103,6 +103,10 @@ Disciplinas: <br>
 1. Professores
 2. Alunos
 
+## Imagem Banco conceitual
+
+![banco de dados](imagens/modelo-em-imagem.jpeg)
+
 ## Links com referências
 
 [Fortinet](https://www.fortinet.com/br/resources/cyberglossary/cia-triad) <br>
