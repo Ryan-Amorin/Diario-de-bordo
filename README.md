@@ -23,6 +23,7 @@ Existem diversas maneiras de quebrar essa confidencialidade, propor medidas cont
 ### Integridade
 
 - é o princípio que garante que os dados não foram modificados, apagados ou adulterados de forma indevida. Ela assegura que a informação permaneça exata, confiável e em seu estado original durante todo o seu ciclo de vida, seja armazenada ou em trânsito.
+
 O Papel da Integridade:
 
 - Faz parte da base de proteção dos sistemas junto com a confidencialidade e a disponibilidade (tríade CID)
