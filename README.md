@@ -80,7 +80,28 @@ A criptografia é utilizada diariamente sem que percebamos, em nossas mensagens,
 
 ### Exemplo no BRmodel Web
 
+**Dados sensíveis**
 
+Aluno: <br>
+1. Matrícula
+2. Sexo
+3. Senhas
+4. Idade
+
+Professor: <br>
+1. Sexo
+2. Idade
+3. Nº de registro
+
+Disciplinas: <br>
+1. Carga horária
+
+<br>
+
+**Tabelas para registros de presenças**
+
+1. Professores
+2. Alunos
 
 ## Links com referências
 
