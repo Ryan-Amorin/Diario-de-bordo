@@ -22,7 +22,21 @@ Existem diversas maneiras de quebrar essa confidencialidade, propor medidas cont
 
 ### Integridade
 
-- 
+- é o princípio que garante que os dados não foram modificados, apagados ou adulterados de forma indevida. Ela assegura que a informação permaneça exata, confiável e em seu estado original durante todo o seu ciclo de vida, seja armazenada ou em trânsito.
+O Papel da Integridade:
+
+.Faz parte da base de proteção dos sistemas junto com a confidencialidade e a disponibilidade (tríade CID)
+
+.Impede fraudes e erros causados por mudanças sem permissão
+
+.Garante que o receptor de uma mensagem ou arquivo receba exatamente o que foi enviado pelo autor original.
+
+Como Proteger a Integridade
+
+Funções Hash: Usam algoritmos matemáticos para gerar códigos únicos de arquivos. Qualquer mudança mínima altera o código e avisa sobre a adulteração.
+Assinaturas digitais: Vinculam a identidade de quem enviou ao conteúdo do documento, invalidando o arquivo se houver alteração.
+Controle de acesso: Limita quem pode editar ou apagar arquivos importantes.
+Cópias de segurança (backups): Permitem recuperar versões originais e corretas caso ocorra algum dano ou alteração errada.
 
 ### Disponibilidade
 
