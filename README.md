@@ -31,3 +31,8 @@ Existem diversas maneiras de quebrar essa confidencialidade, propor medidas cont
 ## O que é a criptografia e como o controle de acessos afeta na modelagem do banco?
 É conhecido como o processo de proteger informações ou dados 
 
+
+## Links com referências
+
+[Fortinet](https://www.fortinet.com/br/resources/cyberglossary/cia-triad) <br>
+[IBM](https://www.ibm.com/br-pt/think/topics/database-security) <br>
