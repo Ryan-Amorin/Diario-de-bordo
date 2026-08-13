@@ -51,3 +51,4 @@ Existem diversas maneiras de quebrar essa confidencialidade, propor medidas cont
 
 [Fortinet](https://www.fortinet.com/br/resources/cyberglossary/cia-triad) <br>
 [IBM](https://www.ibm.com/br-pt/think/topics/database-security) <br>
+[Cloud Google](https://cloud.google.com/learn/what-is-encryption?hl=pt-BR) <br>
